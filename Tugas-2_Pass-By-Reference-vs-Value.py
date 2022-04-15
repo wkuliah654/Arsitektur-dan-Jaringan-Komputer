@@ -1,3 +1,7 @@
+# Nama  : Wanda Septiananta Heryadi Putra
+# NRP   : 5220600047
+# Kelas : GT B
+
 # pembuatan fungsi PassByReference dengan 1 parameter
 def PassByReference(list) :
   # mengubah nilai di dalam variable list dengan menambahkan angka 47
