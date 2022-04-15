@@ -1,5 +1,5 @@
 # Arsitektur-dan-Jaringan-Komputer
 Tugas Arsitektur dan Jaringan Komputer <br>
-Nama  : Wanda Septiananta Heryadi Putra \n
-NRP   : 5220600047
-Kelas : 2 GT B
+<b>Nama</b>  : Wanda Septiananta Heryadi Putra <br>
+<b>NRP</b>   : 5220600047 <br>
+<b>Kelas</b> : 2 GT B <br>
